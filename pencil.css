@@ -186,5 +186,10 @@ tbody {
   background-color: #310101;
 }
 
+.participants
+{
+  background-color: #00000025;
+  text-align: right;
+  font-size:small;
 
-
+}
